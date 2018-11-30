@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pixel_green.png</file>
+        <file>pixel_red.png</file>
+        <file>pixel_yellow.png</file>
+        <file alias="makedrink">makedrink.png</file>
+        <file alias="profile">profileselection.png</file>
+    </qresource>
+</RCC>

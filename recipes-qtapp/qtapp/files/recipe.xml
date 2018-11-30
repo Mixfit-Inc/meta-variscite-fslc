@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <recipe name="Recipe_1" duration="65535">
+        <Motor name="MOTOR_1" target_mgrams="65535" start_millisec="0"/>
+        <Motor name="MOTOR_2" target_mgrams="500" start_millisec="0"/>
+        <Motor name="MOTOR_3" target_mgrams="2" start_millisec="0"/>
+        <Motor name="MOTOR_4" target_mgrams="2" start_millisec="0"/>
+        <Motor name="MOTOR_5" target_mgrams="0" start_millisec="0"/>
+        <Motor name="MOTOR_6" target_mgrams="0" start_millisec="0"/>
+        <Motor name="MOTOR_7" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Water_Pump" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Air_Pump" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Ev1" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Ev2" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Ev3" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Ev4" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Motor_Mixer" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Motor_Haptic" target_mgrams="0" start_millisec="0"/>
+    </recipe>
+    <recipe name="Recipe_2" duration="3">
+        <Motor name="MOTOR_1" target_mgrams="0" start_millisec="0"/>
+        <Motor name="MOTOR_2" target_mgrams="3" start_millisec="0"/>
+        <Motor name="MOTOR_3" target_mgrams="2" start_millisec="0"/>
+        <Motor name="MOTOR_4" target_mgrams="3" start_millisec="0"/>
+        <Motor name="MOTOR_5" target_mgrams="2" start_millisec="0"/>
+        <Motor name="MOTOR_6" target_mgrams="0" start_millisec="0"/>
+        <Motor name="MOTOR_7" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Water_Pump" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Air_Pump" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Ev1" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Ev2" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Ev3" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Ev4" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Motor_Mixer" target_mgrams="0" start_millisec="0"/>
+        <Motor name="Motor_Haptic" target_mgrams="0" start_millisec="0"/>
+    </recipe>    
+</recipes>
